@@ -17,6 +17,6 @@ clone of airbnb web app with almost similar features.
 
 - Vercel
 
-## Copyright
+## Link to project
 
-- [AirBnb](https://www.airbnb.com/) | a Original **AirBnb** awesome website
+- [AirBnb](https://www.airbnb.com/) 
